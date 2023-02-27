@@ -1,3 +1,4 @@
+// Tekijä: Samuli Pohjola.
 import './App.css';
 import {useState} from 'react';
 
